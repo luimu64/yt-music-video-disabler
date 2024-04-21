@@ -1,6 +1,6 @@
 
 const leftPanel = document.getElementById("main-panel")
-const rightPanel = document.getElementsByClassName("side-panel modular style-scope ytmusic-player-page")[0]
+const rightPanel = document.getElementsByClassName("side-panel style-scope ytmusic-player-page")[0]
 
 leftPanel.hidden = true
 
